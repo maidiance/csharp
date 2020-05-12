@@ -1,0 +1,30 @@
+﻿<Window x:Class="HelloWorld.SecondWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HelloWorld"
+        mc:Ignorable="d"
+        Title="SecondWindow" Height="300" Width="300">
+    <Grid>
+        <ListView x:Name="uxList">
+            <ListView.View>
+                <GridView AllowsColumnReorder="true"
+                          ColumnHeaderToolTip="Name">
+                    <GridViewColumn DisplayMemberBinding=
+                                    "{Binding Path=Name}" Width="auto">
+                        <GridViewColumnHeader Tag="Name" Click="NameCH_CLick">Name
+                        
+                        </GridViewColumnHeader>
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding=
+                                    "{Binding Path=Password}" Width="auto">
+                        <GridViewColumnHeader Tag="Password" Click="PasswordCH_CLick">Password
+                           
+                        </GridViewColumnHeader>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

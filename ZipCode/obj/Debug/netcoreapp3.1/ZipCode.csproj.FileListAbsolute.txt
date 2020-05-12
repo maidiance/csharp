@@ -1,0 +1,17 @@
+D:\Users\Mai\source\repos\ZipCode\bin\Debug\netcoreapp3.1\ZipCode.exe
+D:\Users\Mai\source\repos\ZipCode\bin\Debug\netcoreapp3.1\ZipCode.deps.json
+D:\Users\Mai\source\repos\ZipCode\bin\Debug\netcoreapp3.1\ZipCode.runtimeconfig.json
+D:\Users\Mai\source\repos\ZipCode\bin\Debug\netcoreapp3.1\ZipCode.runtimeconfig.dev.json
+D:\Users\Mai\source\repos\ZipCode\bin\Debug\netcoreapp3.1\ZipCode.dll
+D:\Users\Mai\source\repos\ZipCode\bin\Debug\netcoreapp3.1\ZipCode.pdb
+D:\Users\Mai\source\repos\ZipCode\obj\Debug\netcoreapp3.1\ZipCode.csprojAssemblyReference.cache
+D:\Users\Mai\source\repos\ZipCode\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Users\Mai\source\repos\ZipCode\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Users\Mai\source\repos\ZipCode\obj\Debug\netcoreapp3.1\ZipCode_MarkupCompile.cache
+D:\Users\Mai\source\repos\ZipCode\obj\Debug\netcoreapp3.1\ZipCode_MarkupCompile.lref
+D:\Users\Mai\source\repos\ZipCode\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Users\Mai\source\repos\ZipCode\obj\Debug\netcoreapp3.1\ZipCode.g.resources
+D:\Users\Mai\source\repos\ZipCode\obj\Debug\netcoreapp3.1\ZipCode.AssemblyInfoInputs.cache
+D:\Users\Mai\source\repos\ZipCode\obj\Debug\netcoreapp3.1\ZipCode.AssemblyInfo.cs
+D:\Users\Mai\source\repos\ZipCode\obj\Debug\netcoreapp3.1\ZipCode.dll
+D:\Users\Mai\source\repos\ZipCode\obj\Debug\netcoreapp3.1\ZipCode.pdb
