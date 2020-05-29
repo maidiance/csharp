@@ -1,0 +1,31 @@
+﻿@model BirthdayCard.Models.GuestResponse
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<head>
+    <title>Birthday Card Generator</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <style>
+        .header {
+            padding: 60px;
+            background: #171717;
+            color: gray;
+            font-size: 16px;
+        }
+
+        body {
+            background-color: #f1f1f1;
+        }
+    </style>
+</head>
+
+<body>
+    <div class=" = header">
+        <h1>Birthday Card Generator</h1>
+    </div>
+    <h4><b>Birthday Card Sent</b></h4>
+    <p>From: @Model.From</p>
+    <p>To: @Model.To</p>
+    <p>Message: @Model.Message</p>
+</body>
